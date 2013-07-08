@@ -1,0 +1,12 @@
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateSeries\AdminTSGUpdateSeries\bin\AdminTSGUpdateSeries.dll
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateSeries\AdminTSGUpdateSeries\bin\AdminTSGUpdateSeries.pdb
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateSeries\AdminTSGUpdateSeries\bin\PFWeb.dll
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateSeries\AdminTSGUpdateSeries\obj\Debug\AdminTSGUpdateSeries.csprojResolveAssemblyReference.cache
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateSeries\AdminTSGUpdateSeries\obj\Debug\AdminTSGUpdateSeries.dll
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateSeries\AdminTSGUpdateSeries\obj\Debug\AdminTSGUpdateSeries.pdb
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateSeries\AdminTSGUpdateSeries\bin\AdminTSGUpdateSeries.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateSeries\AdminTSGUpdateSeries\bin\AdminTSGUpdateSeries.pdb
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateSeries\AdminTSGUpdateSeries\bin\PFWeb.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateSeries\AdminTSGUpdateSeries\obj\Debug\AdminTSGUpdateSeries.csprojResolveAssemblyReference.cache
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateSeries\AdminTSGUpdateSeries\obj\Debug\AdminTSGUpdateSeries.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateSeries\AdminTSGUpdateSeries\obj\Debug\AdminTSGUpdateSeries.pdb

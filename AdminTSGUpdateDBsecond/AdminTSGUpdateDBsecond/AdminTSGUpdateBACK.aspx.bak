@@ -1,0 +1,24 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="AdminTSGUpdate.aspx.cs" Inherits="AdminTSGUpdateDBsecond.AdminTSGUpdate" %>
+<%@ MasterType TypeName="PFWeb.AdminMaster" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolderHead" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolderBodyTop" runat="server">
+</asp:Content>
+<asp:Content ID="Content5" ContentPlaceHolderID="ContentPlaceHolderBodyTitleBar" runat="server"></asp:Content><asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolderBody" runat="server">
+    <table>
+        <tr>
+            <td class="AdminMain" style="width: 100%; vertical-align: text-top;">
+                <table class="UpdateTSGHead">
+                    <tr>
+                        <td style="vertical-align: text-top;"><a href="AdminTSGUpdateDivision.aspx">Update Divisions</a></td>
+                        <td style="vertical-align: text-top;"><a href="AdminTSGUpdateSeries.aspx">Update Series</a></td>
+                        <td style="vertical-align: text-top;"><a href="AdminTSGUpdateName.aspx">Update Name</a></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</asp:Content>
+<asp:Content ID="Content4" ContentPlaceHolderID="ContentPlaceHolderBodyBottom" runat="server">
+</asp:Content>

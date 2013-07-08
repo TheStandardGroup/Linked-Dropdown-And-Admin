@@ -1,0 +1,26 @@
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\bin\AdminTSGUpdateDBsecond.dll
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\bin\AdminTSGUpdateDBsecond.pdb
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\obj\Debug\AdminTSGUpdateDBsecond.csprojResolveAssemblyReference.cache
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\obj\Debug\AdminTSGUpdateDBsecond.dll
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\obj\Debug\AdminTSGUpdateDBsecond.pdb
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\bin\PFWeb.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\bin\AdminTSGUpdateDBsecond.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\bin\AdminTSGUpdateDBsecond.pdb
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\bin\PFWeb.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\obj\Debug\AdminTSGUpdateDBsecond.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\obj\Debug\AdminTSGUpdateDBsecond.pdb
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\obj\Debug\AdminTSGUpdateDBsecond.csprojResolveAssemblyReference.cache
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\bin\PageflexServices.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\bin\StorefrontExtension.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\bin\de-DE\StorefrontExtension.resources.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\bin\es-ES\StorefrontExtension.resources.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\bin\fr-FR\StorefrontExtension.resources.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\bin\it-IT\StorefrontExtension.resources.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\bin\nl-NL\StorefrontExtension.resources.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\bin\pl-PL\StorefrontExtension.resources.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\bin\pt-BR\StorefrontExtension.resources.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\bin\ru-RU\StorefrontExtension.resources.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\bin\zh-CN\StorefrontExtension.resources.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\bin\zh-TW\StorefrontExtension.resources.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\bin\PFSF_Data.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDBsecond\AdminTSGUpdateDBsecond\bin\PFSvr_Common.dll

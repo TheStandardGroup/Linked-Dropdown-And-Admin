@@ -1,0 +1,12 @@
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateDivision\AdminTSGUpdateDivision\bin\AdminTSGUpdateDivision.dll
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateDivision\AdminTSGUpdateDivision\bin\AdminTSGUpdateDivision.pdb
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateDivision\AdminTSGUpdateDivision\bin\PFWeb.dll
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateDivision\AdminTSGUpdateDivision\obj\Debug\AdminTSGUpdateDivision.csprojResolveAssemblyReference.cache
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateDivision\AdminTSGUpdateDivision\obj\Debug\AdminTSGUpdateDivision.dll
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateDivision\AdminTSGUpdateDivision\obj\Debug\AdminTSGUpdateDivision.pdb
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDivision\AdminTSGUpdateDivision\bin\AdminTSGUpdateDivision.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDivision\AdminTSGUpdateDivision\bin\AdminTSGUpdateDivision.pdb
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDivision\AdminTSGUpdateDivision\bin\PFWeb.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDivision\AdminTSGUpdateDivision\obj\Debug\AdminTSGUpdateDivision.csprojResolveAssemblyReference.cache
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDivision\AdminTSGUpdateDivision\obj\Debug\AdminTSGUpdateDivision.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateDivision\AdminTSGUpdateDivision\obj\Debug\AdminTSGUpdateDivision.pdb

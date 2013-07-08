@@ -1,0 +1,10 @@
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateName\AdminTSGUpdateName\bin\AdminTSGUpdateName.dll
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateName\AdminTSGUpdateName\bin\AdminTSGUpdateName.pdb
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateName\AdminTSGUpdateName\bin\PFWeb.dll
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateName\AdminTSGUpdateName\obj\Debug\AdminTSGUpdateName.dll
+C:\Users\mbachman\Documents\Projects\AdminTSGUpdateName\AdminTSGUpdateName\obj\Debug\AdminTSGUpdateName.pdb
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateName\AdminTSGUpdateName\bin\AdminTSGUpdateName.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateName\AdminTSGUpdateName\bin\AdminTSGUpdateName.pdb
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateName\AdminTSGUpdateName\bin\PFWeb.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateName\AdminTSGUpdateName\obj\Debug\AdminTSGUpdateName.dll
+C:\Users\mbachman\Documents\Projects\TSG LinkedDropDown and Collection updater\AdminTSGUpdateName\AdminTSGUpdateName\obj\Debug\AdminTSGUpdateName.pdb
